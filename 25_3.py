@@ -1,7 +1,7 @@
 #запуск из файла как обычно
 # или терминал cd C:\pythonProject\SF_mod_25
 # python -m pytest -v --driver Chrome --driver-path c://brodriver/chromedriver 25_3.py
-# разница не будет выведено количество питомцев
+
 
 
 import time
